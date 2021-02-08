@@ -58,8 +58,8 @@ THEN I am presented with 3 different topics that each has multiple videos to wat
 ```
 
 # URLS
-* The URLs of the deployed applications:  https://saidmg.github.io/project1/
-* The URLs of the GitHub repositories  :  https://github.com/saidmg/project1.git
+* The URLs of the deployed applications:  https://fatihay53.github.io/Essential-Finance/
+* The URLs of the GitHub repositories  :  https://github.com/fatihay53/Essential-Finance
 
 # Sample Pictures
 * Screenshots are available inside ./assets/ for more details
