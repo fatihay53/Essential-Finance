@@ -24,6 +24,8 @@ AS A User
 I WANT to see Stock related articles 
 SO THAT I stay updated about important news 
 ```
+
+
 AS A User
 I WANT to search for the stock price of a certain company of my choice
 SO THAT I plan my investing choices
